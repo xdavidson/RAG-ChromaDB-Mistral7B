@@ -1,0 +1,13 @@
+2024-05-17 14:45:27,099 INFO: 
+2024-05-17 14:45:27,100 INFO:  Setting up archive ...
+2024-05-17 14:45:27,107 INFO:  Setting up plugins ...
+2024-05-17 14:45:30,317 INFO:  Running plugins. Please wait ...
+2024-05-17 14:45:30,317 INFO: 
+2024-05-17 14:46:04,905 INFO: 
+2024-05-17 14:46:05,026 INFO: Found 1 total reports to obfuscate, processing up to 4 concurrently
+
+2024-05-17 14:46:05,026 INFO: sosreport-host0-2024-05-17-chmroof :                  Beginning obfuscation...
+2024-05-17 14:46:46,850 INFO: sosreport-host0-2024-05-17-chmroof :                  Obfuscation completed [removed 904 unprocessable files]
+2024-05-17 14:46:46,850 INFO: 
+Successfully obfuscated 1 report(s)
+
